@@ -1,4 +1,4 @@
-package 大话设计模式第2章.简单工厂商品打折;
+package 大话设计模式第2章.demo02策略模式;
 
 public class CashRebate extends CashSuper {
 

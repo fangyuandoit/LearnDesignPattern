@@ -1,6 +1,4 @@
-package 大话设计模式第2章.简单工厂商品打折;
-
-import java.text.BreakIterator;
+package 大话设计模式第2章.demo01简单工厂商品打折;
 
 public class CashFactory {
 

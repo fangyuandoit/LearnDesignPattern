@@ -1,0 +1,5 @@
+销售方式都是策略
+需要添加CashContext类
+
+
+改造cashcontext，
