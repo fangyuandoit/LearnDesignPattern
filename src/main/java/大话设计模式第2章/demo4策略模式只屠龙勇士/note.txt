@@ -1,3 +1,5 @@
+http://www.cnblogs.com/noKing/p/java_design_patterns_Strategy.html
+
 在策略模式中,一个类(策略使用者)可以更改自己的执行策略. u
 比如以排序算法为例子, 多种排序算法都归属于排序算法, 但是实现的算法细节不同, 使用者可以很轻松地替换策略, 选择其中一个来执行任务.
 

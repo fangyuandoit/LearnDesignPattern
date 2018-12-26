@@ -52,6 +52,10 @@ DressedUpWomen fengjie = new DressedUpWomen(new Woman(80,80,"fengjie"));
         beauty.say();
 
 
+
+
+
+
     }
 
 }
